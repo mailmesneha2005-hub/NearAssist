@@ -1,0 +1,22 @@
+🔴 Problem
+Finding reliable local service providers like plumbers, electricians, or tutors is often difficult, time-consuming, and lacks trust. Existing platforms are not truly hyperlocal and may involve high costs or delays.
+
+🟢 Solution
+NeighbourhoodMarket is a hyperlocal service marketplace that connects users with nearby service providers instantly. It enables quick discovery, booking, and interaction with trusted professionals within their locality.
+
+⭐ Key Features
+📍 Hyperlocal service matching
+⚡ Instant booking system
+🔐 Verified service providers
+💰 Transparent pricing
+📱 Simple and user-friendly interface
+
+🛠️ Tech Stack
+Frontend: FireBase
+Backend: VS Code
+Hosting: Vercel
+
+🌍 Impact
+.Empowers local workers by increasing visibility and job opportunities
+.Saves time for users by providing quick and reliable services
+.Strengthens the local economy through digital connectivity
