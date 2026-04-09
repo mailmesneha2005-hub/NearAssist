@@ -1,5 +1,5 @@
 # NearAssist
-NearAssist is a hyperlocal platform that connects users with trusted nearby service providers for quick and easy booking.NearAssist is a hyperlocal service marketplace designed to bridge the gap between customers and nearby service providers such as plumbers, electricians, tutors, and delivery agents. In many communities, finding reliable and quick local services is still a challenge due to lack of trust, accessibility, and real-time availability.
+NearAssist is a hyperlocal service marketplace designed to bridge the gap between customers and nearby service providers such as plumbers, electricians, tutors, and delivery agents. In many communities, finding reliable and quick local services is still a challenge due to lack of trust, accessibility, and real-time availability.
 
 Our platform solves this problem by enabling users to discover and book verified service providers within their neighbourhood instantly. With a simple and user-friendly interface, NeighbourhoodMarket ensures fast service matching, transparent pricing, and improved trust between users and providers.
 
